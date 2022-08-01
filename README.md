@@ -1,6 +1,6 @@
 # **Produtos e Categorias**
 
-Essa aplicação foi desenvolvida com o objetivo de exercitar conceitos de REST API, Node.js, Express, PostgreSQL e Docker.
+Essa aplicação foi desenvolvida com o objetivo de exercitar conceitos de REST API, Node.js, Express, regras e tipos de relacionamentos SQL, PostgreSQL e Docker.
 
 #
 
